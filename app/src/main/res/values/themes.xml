@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Final_project_api_retrofit" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/golden</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/goldendark</item>
+        <item name="colorSecondaryVariant">@color/goldendark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <!-- Customize your theme here. -->
+        <item name="android:statusBarColor" tools:targetApi="21">@color/goldendark</item>
+
+    </style>
+    <style name="SplashScreemTeme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowFullscreen" >true</item>
+        <item name="android:windowNoTitle" >true</item>
+    </style>
+
+</resources>

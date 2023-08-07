@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Manger Royel House</string>
+    <string name="update_employee">Update employee</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="national_number">National number</string>
+    <string name="save">Save</string>
+    <string name="full_name">Full name</string>
+</resources>

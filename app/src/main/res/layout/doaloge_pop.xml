@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:padding="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/texc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Resident Data Modification"
+            android:fontFamily="@font/ar3"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            />
+        <EditText
+            android:id="@+id/name_user_update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:fontFamily="@font/ar3"
+            android:hint="Name"
+            />
+        <EditText
+            android:id="@+id/mobile_user_update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/ar3"
+            android:hint="Phone Number"
+            />
+        <EditText
+            android:id="@+id/national_user_update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/ar3"
+            android:hint="National Number"
+            />
+
+
+        <EditText
+            android:id="@+id/family_user_update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/ar3"
+            android:hint="Family Members"
+            />
+        <EditText
+            android:id="@+id/gender_user_update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/ar3"
+            android:hint="Gender"
+            />
+
+
+        <Button
+            android:id="@+id/save_update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="Update"
+            android:textColor="@color/black"
+            android:fontFamily="@font/ar3"
+            android:background="@color/light_blue_med"
+            />
+    </LinearLayout>
+</RelativeLayout>
