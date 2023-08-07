@@ -16,7 +16,6 @@ I'll leave you some pictures.....
 
 ![2023-02-08 (2)](https://github.com/MohamedHamid4/Manger-Residential-Buildings/assets/108215943/5ece215c-7a79-48f1-9b4f-d7ea2fef596b)
 ![2023-02-08 (18)](https://github.com/MohamedHamid4/Manger-Residential-Buildings/assets/108215943/ea4bddf5-f816-4206-8716-08f573144f6e)
-![2023-02-08 (20)](https://github.com/MohamedHamid4/Manger-Residential-Buildings/assets/108215943/964d5789-9caa-4469-93d1-6223169fee18)
 ![2023-02-08 (3)](https://github.com/MohamedHamid4/Manger-Residential-Buildings/assets/108215943/df708bbc-d76b-46f4-b98e-bad64d6f2650)
 ![2023-02-08 (4)](https://github.com/MohamedHamid4/Manger-Residential-Buildings/assets/108215943/3a1dd980-698e-495d-9803-064f309e7130)
 ![2023-02-08 (5)](https://github.com/MohamedHamid4/Manger-Residential-Buildings/assets/108215943/ee733be7-a007-4d9f-ad5e-2976916819cc)
